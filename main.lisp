@@ -8,6 +8,7 @@
      #+ccl ccl:interrupt-signal-condition
      #+clisp system::simple-interrupt-condition
      #+ecl ext:interactive-interrupt
+     #+egcl egcl-ext:interrupt-condition
      #+allegro excl:interrupt-signal
      #+lispworks conditions:keyboard-break)))
 
